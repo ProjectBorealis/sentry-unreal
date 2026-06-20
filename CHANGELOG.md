@@ -16,6 +16,9 @@
 - Bump Java SDK (Android) from v8.24.0 to v8.25.0 ([#1130](https://github.com/getsentry/sentry-unreal/pull/1130))
   - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8250)
   - [diff](https://github.com/getsentry/sentry-java/compare/8.24.0...8.25.0)
+- Bump Java SDK (Android) from v8.25.0 to v8.44.1 ([#114](https://github.com/ProjectBorealis/sentry-unreal/pull/114))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8441)
+  - [diff](https://github.com/getsentry/sentry-java/compare/8.25.0...8.44.1)
 
 ## 1.2.0
 
